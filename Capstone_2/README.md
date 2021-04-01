@@ -1,1 +1,1 @@
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fclimate.nasa.gov%2Fsystem%2Fnews_items%2Fmain_images%2F2830_wildfire1-768px.jpg&imgrefurl=https%3A%2F%2Fclimate.nasa.gov%2Fblog%2F2830%2Fsix-trends-to-know-about-fire-season-in-the-western-us%2F&tbnid=z0lEdzyDgS03kM&vet=12ahUKEwiKu5zkiNzvAhXan-AKHX6vBkEQMygAegUIARC_AQ..i&docid=04_jaT014tzuDM&w=768&h=512&q=forest%20fire&hl=en&authuser=0&ved=2ahUKEwiKu5zkiNzvAhXan-AKHX6vBkEQMygAegUIARC_AQ)
+![](Figures/Fire_image_NASA_GOV.png)
